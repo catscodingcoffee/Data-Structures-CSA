@@ -16,3 +16,9 @@ Build a Playlist class with a SongNode head. Implement:
 * removeFirst() — removes and returns first song
 * playAll() — prints each song in order
 * size() — returns number of songs
+
+## Part D - Remove by Title
+Implement ```removeSong(String title)``` that searches the list 
+and removes the first song with a matching title. 
+
+What edge cases do you need to handle?
